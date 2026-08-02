@@ -63,4 +63,4 @@ Deployed using Streamlit Community Cloud.
 
 ## 👨‍💻 Author
 
-Apurv Anand
+Apurva Anand
